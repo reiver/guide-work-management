@@ -17,6 +17,6 @@ Some people might call some of this — **project management**.
 6. Completed Yesterday
 7. Completed
 8. To-Do
-9. [2 More Questions](chapters/2_more_questions/README.md)
+9. [3 More Questions](chapters/3_more_questions/README.md)
 10. How Long
 11. Unplanned Tasks

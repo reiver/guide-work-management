@@ -10,7 +10,7 @@ Some people might call some of this — **project management**.
 ## Table of Contents
 
 1. [What Is Work Management](chapters/what_is_work_management/README.md)
-2. 5 Questions
+2. [5 Questions](chapters/5_questions/README.md)
 3. Today's Work
 4. Yesterday's Work
 5. Work Per Day

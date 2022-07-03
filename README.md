@@ -1,4 +1,4 @@
-# GUIDE: Work Management
+# GUIDE: work management
 
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 

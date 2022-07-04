@@ -24,4 +24,4 @@ Here are **5 more questions** that you, the person doing **work management** (or
 
 **Question №10**:
 
-> Were there any time spans where someone was _not_ working on task?
+> Were there any time spans where someone was _not_ working on a task?

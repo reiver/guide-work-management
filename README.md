@@ -9,14 +9,17 @@ Some people might call some of this — **project management**.
 
 ## Table of Contents
 
-1. [What Is Work Management](chapters/what_is_work_management/README.md)
+1. What
+2. Who
 2. [5 Questions](chapters/5_questions/README.md)
 3. Today's Work
 4. Yesterday's Work
-5. Work Per Day
-6. Completed Yesterday
-7. Completed
-8. To-Do
-9. [5 More Questions](chapters/5_more_questions/README.md)
-10. How Long
-11. Unplanned Tasks
+5. Completed Yesterday
+6. Completed
+7. To-Do
+8. [5 More Questions](chapters/5_more_questions/README.md)
+9. 3 Days
+10. Too Long
+11. Unplanned
+12. Unapproved
+13. Not Working

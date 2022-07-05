@@ -12,7 +12,7 @@ Some people might call some of this — **project management**.
 1. What
 2. Who
 2. [5 Questions](chapters/5_questions/README.md)
-3. Today's Work
+3. [Today's Work](chapters/todays_work/README.md)
 4. Yesterday's Work
 5. Completed Yesterday
 6. Completed

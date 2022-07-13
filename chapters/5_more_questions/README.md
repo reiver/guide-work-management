@@ -16,11 +16,11 @@ Here are **5 more questions** that you, the person doing **work management** (or
 
 **Question №8**:
 
-> Were any unplanned tasks worked on?
+> Was any unplanned tasks worked on?
 
 **Question №9**:
 
-> Were any unapporved tasks worked on?
+> Was any unapporved tasks worked on?
 
 **Question №10**:
 
